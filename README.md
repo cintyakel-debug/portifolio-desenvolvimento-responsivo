@@ -1,1 +1,48 @@
 # portifolio-desenvolvimento-responsivo
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./style.css">
+
+<body>
+  <header>
+    <h1>As seis profissões que mais crescem</h1>
+    <p>Segundo pesquisas, as profissões com maior crescimento até 2030 incluem:</p>
+  </header>
+
+  <main class="container">
+    <div class="card">
+      <h2> Espec. Big data </h2>
+      <p>Especialistas em analisar grandes volumes de dados para gerar insights valiosos.</p>
+
+      <div class="card">
+        <h2> Eng. IA</h2>
+        <p>Profis. que desenvolvem sistemas de IA e aprendizado de máquina.</p>
+
+        <div class="card">
+          <h2> Des.Software e Aplicativos </h2>
+          <p>Profis. que criam|mantêm software e aplicativos para dispositivos móveis e web.</p>
+
+          <div class="card">
+            <h2> Eng. Automação|Robótica </h2>
+            <p>Profis. que projetam e programam robôs e sistemas automatizados.</p>
+
+
+            <div class="card">
+              <h2> Eng. Cibersegurança </h2>
+              <p>Profis. que protegem sistemas|redes contra ameaças cibernéticas.</p>
+
+              <div class="card">
+                <h2> Eng. de Energia Renovável </h2>
+                <p>Profis. que desenvolvem|implementam tecnologias de energia limpa.</p>
+              </div>
+            </main>
+              
+              <footer>
+                <p>Fonte: Portifolio Desenvolvimento Responsivo. Aluna: Cintya Rachel.</p>
+              </footer>
+            
+</body>
